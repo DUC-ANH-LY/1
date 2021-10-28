@@ -1,2 +1,0 @@
-# Search
-cs50w
